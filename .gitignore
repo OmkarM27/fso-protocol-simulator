@@ -1,0 +1,75 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+
+# Dependency files
+*.d
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Documentation generated files
+docs/html/
+docs/latex/
+docs/xml/
+
+# Test and benchmark results
+*.log
+*.csv
+*.dat
+results/
+output/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Core dumps
+core
+core.*
+
+# Profiling data
+gmon.out
+*.gcda
+*.gcno
+*.gcov
+
+# Valgrind output
+valgrind-*.log
+
+# Compiled Python files (if any scripts are added)
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Package files
+*.tar.gz
+*.zip
+*.tar.bz2
+
+# Simulation output
+simulation_results/
+plots/
+*.png
+*.pdf
+*.eps
+
+# Benchmark output
+benchmark_results/
+perf_*.txt
