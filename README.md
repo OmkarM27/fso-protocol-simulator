@@ -1,4 +1,4 @@
-# FSO Communication Protocol Suite
+# FSO Protocol Simulator
 
 A high-performance, software-based simulation and implementation framework for Free-Space Optical (FSO) communication systems. This project demonstrates advanced optical wireless communication technologies including multiple modulation schemes, forward error correction, beam tracking algorithms, atmospheric turbulence modeling, and parallel signal processing using OpenMP.
 
